@@ -21,6 +21,11 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 Built With PWAs may utilize the Service Worker and Cache APIs to cache assets and API responses to ensure applications work without an internet connection.
 
+Prerequisites No special hardware or software is required to use this web app. All you need is a modern browser.
+
+Running the tests Basic functionality testing.  Test the adding and subtracting of transactional amounts.
+
+
 Authors Matari Howard
 
 License This project is licensed under the MIT License
